@@ -7,3 +7,5 @@ Links and stuff that are awesome
 
 ## Being Sysadmin
 * [Ops School](http://www.opsschool.org/)
+* [n1trux's awesome list of open source sysadmin things](https://github.com/n1trux/awesome-sysadmin)
+* [n1trux's awesome list of technology things](https://github.com/n1trux/awesome-awesomeness)
